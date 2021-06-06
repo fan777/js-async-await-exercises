@@ -1,0 +1,15 @@
+/* #pile > img {
+  position: absolute
+}
+#counter {
+  width: 200px;
+  margin: 20px auto;
+}
+#pile {
+  width: 200px;
+  margin: 60px auto;
+} */
+
+.card {
+  margin: 10px;
+}
